@@ -1,0 +1,20 @@
+Carta de presentacion
+terminales: carcelen, terminal en guayaquil y terminal en quito
+54 unidades
+25 turnos subida
+25 bajada
+division dia pares
+y otros impares
+unidades de reemplazos 
+rutas: quito-guayaquil y con ciudades intermedias quevedo babaholo duran ventanas santo domingo
+susupencion por bastante demanda (pregunta ¿las suspenciones se hacen ese dia o ya se planean?) 
+horarios suspendido.
+
+los carros de la noche no se cambian
+en feriados se aumentan turnod extras 
+esperan 5 a 6 horas
+los turnos se mantienen  
+
+
+4:30 y sale 5:30
+descansan unidades 
